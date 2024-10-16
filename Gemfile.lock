@@ -249,7 +249,7 @@ GEM
     mini_racer (0.16.0)
       libv8-node (~> 18.19.0.0)
     minitest (5.25.1)
-    mission_control-jobs (0.3.1)
+    mission_control-jobs (0.3.3)
       importmap-rails
       irb (~> 1.13)
       rails (>= 7.1)
@@ -267,7 +267,7 @@ GEM
       i18n (>= 0.6.4, <= 2)
     msgpack (1.7.2)
     mutex_m (0.2.0)
-    net-imap (0.4.16)
+    net-imap (0.4.17)
       date
       net-protocol
     net-pop (0.1.2)
